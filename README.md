@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Yash Goel
-Currently delving in android App development in Kotlin and React Native. 
+## Currently delving in android App development in Kotlin and React Native. 
 I also do Game Development via Unity.
 <!--
 **GoelYash1/GoelYash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
