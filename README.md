@@ -10,8 +10,9 @@ I also do Game Development with Unity.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a ***customizable clothing platform*** using the MERN stack.
+- 🔭 I’m currently working on a ***product management tool*** using the MERN stack.
 - 🌱 I’m currently working on a ***run tracking application*** learning advanced Kotlin techniques, Kotlin Multi Module, and full-stack development with the MERN stack.
+- 🔭 I have worked on a ***customizable clothing platform*** using the MERN stack.
 - 👯 I’m looking to collaborate on Android projects and MERN stack applications.
 - 🤔 I’m looking for help with improving my game development skills using Unity.
 - 💬 Ask me about Android development, Kotlin, and MERN stack.
