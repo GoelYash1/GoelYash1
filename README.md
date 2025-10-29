@@ -1,40 +1,48 @@
-
 # Hi there 👋, I'm Yash Goel
 
-## Currently delving into Android App development using Kotlin.
-I also do Game Development with Unity.
+## Currently exploring AI & Machine Learning in python
 
-<!--
-**GoelYash1/GoelYash1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineer at Capgemini**, where I work on enterprise technologies while continuously expanding my technical stack. Alongside my professional work, I explore areas like **Python**, **Cloud (GCP)**, and **Oracle SOA**, aiming to integrate modern data and automation techniques into my development journey.
 
-Here are some ideas to get you started:
--->
+---
 
-- 🔭 I’m currently working on a ***product management tool*** using the MERN stack.
-- 🌱 I’m currently working on a ***run tracking application*** learning advanced Kotlin techniques, Kotlin Multi Module, and full-stack development with the MERN stack.
-- 🔭 I have worked on a ***customizable clothing platform*** using the MERN stack.
-- 👯 I’m looking to collaborate on Android projects and MERN stack applications.
-- 🤔 I’m looking for help with improving my game development skills using Unity.
-- 💬 Ask me about Android development, Kotlin, and MERN stack.
-- 📫 How to reach me: [ygoel172001@gmail.com]
-- ⚡ Fun fact: I enjoy blending creativity with technology to build innovative solutions.
+### 🚀 What I'm Up To
 
-### Skills
+- 💼 Currently working at **Capgemini** as a **Senior Analyst**.  
+- 🌱 Learning **Python** in depth — exploring data structures, automation, and machine learning fundamentals.  
+- ☁️ Exploring **Google Cloud Platform (GCP)** and **Oracle SOA** concepts.  
+- 🤖 Diving into the exciting world of **AI & ML**.  
+- 🔭 Building a ***Product Management Tool*** using the **MERN stack**.  
+- 🏃‍♂️ Developing a ***Run Tracking Application*** using **Kotlin**, applying **Multi-Module architecture** and advanced Android concepts.  
+- 🧵 Previously built a ***Customizable Clothing Platform*** using the **MERN stack**.  
+- 👯 Open to collaborating on **Android**, **MERN**, and **data-driven** projects.  
 
-- **Android Development**: Kotlin, Gradle, Room, Kotlin Multi Module, MVVM architecture
-- **Web Development**: JavaScript, React.js, Node.js, MongoDB, Express.js, Redux
-- **Game Development**: Unity, C#
+---
 
-### Projects
+### 🧠 Skills
 
-- **Denim4All**: A customizable clothing platform built with the MERN stack.
-- **Expense Tracker**: An Android expense tracker application using Kotlin and MVVM architecture.
-- **E-commerce Application**: A full-stack application focusing on authentication, payment integration with razorpay and user-related functionalities
+- **Android Development**: Kotlin, Gradle, Room, MVVM, Kotlin Multi-Module  
+- **Web Development**: JavaScript, React.js, Node.js, MongoDB, Express.js, Redux  
+- **Backend & Tools**: Python, SQL, Oracle SOA, GCP  
+- **Game Development**: Unity, C#  
+- **Others**: REST APIs, Git, Agile, Basic AI/ML concepts  
 
-### Get in Touch
+---
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/goelyash1/)
-- Twitter: [Twitter](https://twitter.com/ygoel172001)
-- Email: [Email](mailto:ygoel172001@gmail.com)
+### 🧩 Projects
 
-Thanks for visiting my profile!
+- **Denim4All** – A customizable clothing platform built using the MERN stack.  
+- **Expense Tracker** – Android app with MVVM architecture to manage personal expenses.  
+- **E-commerce Application** – Full-stack app with authentication, Razorpay integration, and user functionalities.  
+
+---
+
+### 📬 Get in Touch
+
+- **LinkedIn**: [linkedin.com/in/goelyash1](https://www.linkedin.com/in/goelyash1/)  
+- **Twitter**: [twitter.com/ygoel172001](https://twitter.com/ygoel172001)  
+- **Email**: [ygoel172001@gmail.com](mailto:ygoel172001@gmail.com)  
+
+---
+
+⚡ **Fun fact:** I enjoy blending creativity with technology to build innovative and user-focused solutions.
